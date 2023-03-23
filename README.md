@@ -56,7 +56,7 @@ A context-free language consists of
 * an alphabet $A$ of *constants*, neu
 * an alphabet $V$ of *variables*,
 * a start symbol $S \in V$, and
-* a finite set $P \subseteq V \times (A \Bla V)^*$ of productions.
+* a finite set $P \subseteq V \times (A \cup V)^*$ of productions.
     
 </div>
 
