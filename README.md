@@ -37,3 +37,13 @@ bla
 </section>
 
 ## Model Checking
+
+<div style="background: red; padding: 20px">
+
+* point 1
+* point 2
+
+$$ \frac{1}{a} $$
+
+</div>
+
