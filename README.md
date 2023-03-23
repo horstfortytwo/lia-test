@@ -9,6 +9,8 @@ narrator: US English Female
 
 comment:  A playground for LiaScript
 
+version: 1
+
 -->
 
 ## version 1
