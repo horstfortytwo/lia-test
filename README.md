@@ -11,7 +11,7 @@ comment:  A playground for LiaScript
 
 -->
 
-$\gdef\Bla{\cup}$
+$\def\Bla{\cup}$
 
 # Automata and Logics
 
