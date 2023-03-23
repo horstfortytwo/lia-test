@@ -11,7 +11,7 @@ comment:  A playground for LiaScript
 
 -->
 
-## without math
+## version 1
 
 <div style="background: yellow; padding: 20px">
 
@@ -20,7 +20,14 @@ comment:  A playground for LiaScript
 
 </div>
 
-## with math
+<div style="background: orange; padding: 20px">
+
+* point $a$
+* point $b$
+    
+</div>
+
+## version 2
 
 <div style="background: orange; padding: 20px">
 
@@ -28,3 +35,11 @@ comment:  A playground for LiaScript
 * point $b$
     
 </div>
+
+<div style="background: yellow; padding: 20px">
+
+* point 1
+* point 2
+
+</div>
+
