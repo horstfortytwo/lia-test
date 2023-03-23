@@ -23,7 +23,7 @@ $\def\Bla{\cup}$
 
 $\Bla$
 
-<section>
+<div>
 
 A context-free language consists of 
     
@@ -34,7 +34,7 @@ A context-free language consists of
     
 bla
 
-</section>
+</div>
 
 ## Model Checking
 
