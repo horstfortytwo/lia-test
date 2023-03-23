@@ -11,6 +11,24 @@ comment:  A playground for LiaScript
 
 -->
 
+<div style="background: red; padding: 20px">
+
+* point 1
+* point 2
+
+$$ \frac{1}{a} $$
+
+</div>
+
+<div style="background: red; padding: 20px">
+
+* point $a$
+* point $b$
+
+$$ \frac{1}{a} $$
+
+</div>
+
 $\def\Bla{\cup}$
 
 # Automata and Logics
