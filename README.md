@@ -11,75 +11,20 @@ comment:  A playground for LiaScript
 
 -->
 
-<div style="background: red; padding: 20px">
+## without math
+
+<div style="background: yellow; padding: 20px">
 
 * point 1
 * point 2
 
-$$ \frac{1}{a} $$
-
 </div>
 
-<div style="background: red; padding: 20px">
+## with math
+
+<div style="background: orange; padding: 20px">
 
 * point $a$
 * point $b$
-
-$$ \frac{1}{a} $$
-
-</div>
-
-$\def\Bla{\cup}$
-
-# Automata and Logics
-
-## Context-free Languages
-
-- a
-- b
-- c
-
-$\Bla$
-
-## dashes
-
-<div>
-
-A context-free language consists of 
-    
-- an alphabet $A$ of *constants*, neu
-- an alphabet $V$ of *variables*,
-- a start symbol $S \in V$, and
-- a finite set $P \subseteq V \times (A \Bla V)^*$ of productions.
-    
-bla
     
 </div>
-
-## stars
-
-<div>
-
-A context-free language consists of 
-    
-* an alphabet $A$ of *constants*, neu
-* an alphabet $V$ of *variables*,
-* a start symbol $S \in V$, and
-* a finite set $P \subseteq V \times (A \Bla V)^*$ of productions.
-    
-bla
-    
-</div>
-
-
-## Model Checking
-
-<div style="background: red; padding: 20px">
-
-* point 1
-* point 2
-
-$$ \frac{1}{a} $$
-
-</div>
-
