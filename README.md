@@ -127,3 +127,56 @@ a bla is
 * point 2
 
 </div>
+
+## version 12
+
+<div style="background: orange; padding: 20px">
+
+A context-free language consists of 
+    
+* an alphabet $A$ of constants,
+* an alphabet $V$ of *variables*,
+* a start symbol $S \in V$, and
+* a finite set $P \subseteq V \times (A \cup V)^*$ of productions.
+    
+</div>
+
+## version 13
+
+<div style="background: orange; padding: 20px">
+
+A context-free language consists of 
+    
+* an alphabet $A$ of constants,
+* an alphabet $V$ of variables,
+* a start symbol $S \in V$, and
+* a finite set $P \subseteq V \times (A \cup V)^*$ of productions.
+    
+</div>
+
+## version 14
+
+<div style="background: orange; padding: 20px">
+
+A context-free language consists of 
+    
+* an alphabet $A$ of constants,
+* an alphabet $V$ of variables,
+* a start symbol $S \in V$, and
+* a finite set $P \subseteq V \times (A \cup V)$ of productions.
+    
+</div>
+
+## version 15
+
+<div style="background: orange; padding: 20px">
+
+A context-free language consists of 
+    
+* an alphabet $A$ of *constants*,
+* an alphabet $V$ of *variables*,
+* a start symbol $S \in V$, and
+* a finite set $P$ of productions.
+    
+</div>
+
