@@ -46,3 +46,14 @@ comment:  A playground for LiaScript
 * point $b$
     
 </div>
+
+## version 5
+
+<div style="background: orange; padding: 20px">
+
+* an alphabet $A$ of *constants*,
+* an alphabet $V$ of *variables*,
+* a start symbol $S \in V$, and
+* a finite set $P \subseteq V \times (A \Bla V)^*$ of productions.
+    
+</div>
