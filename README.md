@@ -205,3 +205,27 @@ A context-free language consists of
 * a finite set $P$ of productions.
     
 </div>
+
+## version 18
+
+<div style="background: orange; padding: 20px">
+    
+* an alphabet $A$ of constants,
+* an alphabet $V$ of variables,
+* a start symbol $V$, and
+* a finite set $P$ of productions.
+    
+</div>
+
+## version 19
+
+<div style="background: orange; padding: 20px">
+
+A context-free language consists of 
+    
+* an alphabet $A$ of constants
+* an alphabet $V$ of variables
+* a start symbol $V$ and
+* a finite set $P$ of productions
+    
+</div>
