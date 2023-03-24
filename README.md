@@ -180,3 +180,28 @@ A context-free language consists of
     
 </div>
 
+## version 16
+
+<div style="background: orange; padding: 20px">
+
+A context-free language consists of 
+    
+* an alphabet $A$ of constants,
+* an alphabet $V$ of variables,
+* a start symbol $S \in V$, and
+* a finite set $P$ of productions.
+    
+</div>
+
+## version 17
+
+<div style="background: orange; padding: 20px">
+
+A context-free language consists of 
+    
+* an alphabet $A$ of constants,
+* an alphabet $V$ of variables,
+* a start symbol $V$, and
+* a finite set $P$ of productions.
+    
+</div>
