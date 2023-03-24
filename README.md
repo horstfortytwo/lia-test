@@ -20,13 +20,6 @@ comment:  A playground for LiaScript
 
 </div>
 
-<div style="background: orange; padding: 20px">
-
-* point $a$
-* point $b$
-    
-</div>
-
 ## version 2
 
 <div style="background: orange; padding: 20px">
@@ -36,48 +29,20 @@ comment:  A playground for LiaScript
     
 </div>
 
-<div style="background: yellow; padding: 20px">
+## version 3
 
-* point 1
-* point 2
+<div style="background: orange; padding: 20px">
 
-</div>
-
-## Context-free Languages
-
-<div style="background: yellow; padding: 20px">
-
-A context-free language consists of 
-    
-* an alphabet $A$ of constants,
-* an alphabet $V$ of variables,
-* a start symbol $S \in V$, and
-* a finite set $P \subseteq V \times (A \cup V)$ of productions.
+* point *plus*
+* point $b$
     
 </div>
 
-## Context-free Languages
+## version 
 
-<div style="background: yellow; padding: 20px">
+<div style="background: orange; padding: 20px">
 
-A context-free language consists of 
-    
-* an alphabet $A$ of *constants*,
-* an alphabet $V$ of variables,
-* a start symbol $S \in V$, and
-* a finite set $P \subseteq V \times (A \cup V)$ of productions.
-    
-</div>
-
-## Context-free Languages
-
-<div style="background: yellow; padding: 20px">
-
-A context-free language consists of 
-    
-* an alphabet of *constants*,
-* an alphabet $V$ of variables,
-* a start symbol $S \in V$, and
-* a finite set $P \subseteq V \times (A \cup V)$ of productions.
+* point $a$ *plus*
+* point $b$
     
 </div>
