@@ -11,6 +11,30 @@ comment:  A playground for LiaScript
 
 -->
 
+## Counter Example
+
+<div style="background: orange; padding: 20px">
+
+A list consisting of 
+
+* item 1
+* item 2
+* item 3
+
+</div>
+
+## Counter Example
+
+<div style="background: orange; padding: 20px">
+
+A list consisting of 
+    
+* item 1
+* item 2
+* item 3
+
+</div>
+
 ## version 24
 
 <div style="background: orange; padding: 20px">
