@@ -11,6 +11,19 @@ comment:  A playground for LiaScript
 
 -->
 
+## version 23
+
+<div style="background: orange; padding: 20px">
+
+A context-free language consists of 
+    
+* an alphabet of constants
+* an alphabet of variables
+* a start symbol and
+* a finite set of productions
+    
+</div>
+
 ## version 1
 
 <div style="background: yellow; padding: 20px">
@@ -272,6 +285,32 @@ A context free language consists of
 <div style="background: orange; padding: 20px">
 
 A context-free language consists of 
+    
+* an alphabet of constants
+* an alphabet of variables
+* a start symbol and
+* a finite set of productions
+    
+</div>
+
+## version 24
+
+<div style="background: orange; padding: 20px">
+
+A context free language consists of 
+    
+* an alphabet of constants
+* an alphabet of variables
+* a start symbol and
+* a finite set of productions
+    
+</div>
+
+## version 25
+
+<div style="background: orange; padding: 20px">
+
+A context free language consists of 
     
 * an alphabet of constants
 * an alphabet of variables
