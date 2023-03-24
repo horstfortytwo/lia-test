@@ -9,8 +9,6 @@ narrator: US English Female
 
 comment:  A playground for LiaScript
 
-version: 1.0.0
-
 -->
 
 ## version 1
@@ -51,10 +49,35 @@ version: 1.0.0
 
 A context-free language consists of 
     
-* an alphabet $A$ of constants, neu
+* an alphabet $A$ of constants,
 * an alphabet $V$ of variables,
 * a start symbol $S \in V$, and
 * a finite set $P \subseteq V \times (A \cup V)$ of productions.
     
 </div>
 
+## Context-free Languages
+
+<div style="background: yellow; padding: 20px">
+
+A context-free language consists of 
+    
+* an alphabet $A$ of *constants*,
+* an alphabet $V$ of variables,
+* a start symbol $S \in V$, and
+* a finite set $P \subseteq V \times (A \cup V)$ of productions.
+    
+</div>
+
+## Context-free Languages
+
+<div style="background: yellow; padding: 20px">
+
+A context-free language consists of 
+    
+* an alphabet of *constants*,
+* an alphabet $V$ of variables,
+* a start symbol $S \in V$, and
+* a finite set $P \subseteq V \times (A \cup V)$ of productions.
+    
+</div>
