@@ -13,7 +13,7 @@ comment:  A playground for LiaScript
 
 ## Two Examples
 
-### Working Example
+**Working Example**
 
 <div style="background: orange; padding: 20px">
 
@@ -25,7 +25,7 @@ A list consisting of
 
 </div>
 
-### Counter Example
+**Counter Example**
 
 <div style="background: orange; padding: 20px">
 
