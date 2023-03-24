@@ -105,3 +105,25 @@ a bla is
 * point 2
 
 </div>
+
+## version 10
+
+<div style="background: yellow; padding: 20px">
+    
+a bla is
+
+* point $1$
+* point 2
+
+</div>
+
+## version 11
+
+<div style="background: yellow; padding: 20px">
+    
+a bla is
+
+* point $1$ *blubber*
+* point 2
+
+</div>
