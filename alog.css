@@ -1,3 +1,12 @@
+.test {
+  background: orange; 
+  padding: 20px;
+}
+
+article {
+  counter-reset: definition theorem lemma example proposition corollary;
+}
+
 .definition:before {
   counter-increment: definition;
   content: "Definition " counter(definition) ".";
