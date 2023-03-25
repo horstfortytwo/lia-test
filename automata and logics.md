@@ -17,9 +17,9 @@ link: https://cdn.jsdelivr.net/gh/horstfortytwo/lia-test@0fc66b0d8f679c93ab109bf
 
 ## Context-free Languages
 
-With CDN now.
+With CDN and math now.
 
-<div class="testcolor">
+<div class="test">
 
 A quick color test.
 
