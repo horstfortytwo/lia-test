@@ -19,6 +19,12 @@ link: https://raw.githubusercontent.com/horstfortytwo/lia-test/main/alog.css
 
 <div class="definition">
 
+A quick color test.
+
+</dev>
+
+<div class="definition">
+
 A context-free language consists of 
 
 - an alphabet $A$ of *constants*,
