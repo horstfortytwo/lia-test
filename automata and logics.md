@@ -10,7 +10,7 @@ narrator: US English Female
 comment:  A simple demo that shows, how custom styles can be applied to a
           LiaScript document...
 
-link: https://cdn.jsdelivr.net/gh/horstfortytwo/lia-test@0fc66b0d8f679c93ab109bffaef08bdf4ca8c2cd/alog.css
+link: https://cdn.jsdelivr.net/gh/horstfortytwo/lia-test@8efa44b70d55b3b5ea2f6f40fa4f1a3d7b393bd4/alog.css
 -->
 
 # Automata and Logics
