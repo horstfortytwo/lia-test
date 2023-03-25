@@ -11,7 +11,7 @@ comment:  A simple demo that shows, how custom styles can be applied to a
           LiaScript document...
 
 
-link: https://cloud.rz.uni-kiel.de/index.php/s/iwcX4rfkrbf9Kos/download/a.css
+link: https://raw.githubusercontent.com/horstfortytwo/lia-test/main/alog.css
 -->
 
 # Automata and Logics
