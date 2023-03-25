@@ -10,12 +10,14 @@ narrator: US English Female
 comment:  A simple demo that shows, how custom styles can be applied to a
           LiaScript document...
 
-link: https://raw.githubusercontent.com/horstfortytwo/lia-test/main/alog2.css
+link: https://cdn.jsdelivr.net/gh/horstfortytwo/lia-test@0fc66b0d8f679c93ab109bffaef08bdf4ca8c2cd/alog.css
 -->
 
 # Automata and Logics
 
 ## Context-free Languages
+
+With CDN now.
 
 <div class="testcolor">
 
