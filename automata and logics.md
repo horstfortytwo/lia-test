@@ -17,7 +17,7 @@ link: https://raw.githubusercontent.com/horstfortytwo/lia-test/main/alog2.css
 
 ## Context-free Languages
 
-<div class="test">
+<div class="testcolor">
 
 A quick color test.
 
