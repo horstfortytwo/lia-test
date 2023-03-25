@@ -17,7 +17,7 @@ link: https://cdn.jsdelivr.net/gh/horstfortytwo/lia-test@8efa44b70d55b3b5ea2f6f4
 
 ## Context-free Languages
 
-With CDN and math now.
+With CDN and math and article now.
 
 <div class="test">
 
@@ -32,7 +32,7 @@ Another test.
 </div>
 
 
-<div class="definition">
+<article class="definition">
 
 A context-free language consists of 
 
@@ -41,4 +41,4 @@ A context-free language consists of
 - a start symbol $S \in V$, and
 - a finite set $P \subseteq V \times (A \cup V)^*$ of productions.
 
-</div>
+</article>
