@@ -17,11 +17,11 @@ link: https://raw.githubusercontent.com/horstfortytwo/lia-test/main/alog.css
 
 ## Context-free Languages
 
-<div class="definition">
+<div class="test">
 
 A quick color test.
 
-</dev>
+</div>
 
 <div class="definition">
 
